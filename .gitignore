@@ -1,0 +1,11 @@
+****/*.tar
+****/*.pkl
+****__pycache__
+*****.pyc
+****/*.so
+build
+****/knn
+.vscode
+venv
+Pointnet2_PyTorch
+python-pcl*
